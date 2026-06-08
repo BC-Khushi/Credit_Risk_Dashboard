@@ -6,10 +6,11 @@ This Power BI dashboard analyzes credit risk, loan performance, default probabil
 ## Tools Used
 - Power BI
 - Excel
-- SQL
 
 ## Features
-- Risk Score Analysis
+- Credit Risk Overview Analysis
 - Loan Amount Analysis
-- Default Probability Tracking
-- Regional Performance Monitoring
+- Credit Score Analysis
+- Income v/s Default Analysis
+- Debt-To-Income Analysis
+- Employment and Credit Risk Analysis
